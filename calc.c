@@ -5,8 +5,8 @@ void main()
     printf("enter no:");
     scanf("%d",&a);
     printf("enter no:");
-    scanf("%d",&b)
-    ans= a+b:
+    scanf("%d",&b);
+    ans= a+b;
     printf("ans= %d",ans);
     
 }
